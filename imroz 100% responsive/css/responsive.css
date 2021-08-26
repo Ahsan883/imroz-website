@@ -1,0 +1,269 @@
+
+
+/* XL device: 1450px */
+@media(min-width: 1450px) and (max-width: 1600px){
+    .social-icons {
+        margin-left: 260px;
+    }
+    
+
+}
+
+
+/* L device: 1200px */
+@media(min-width: 1200px) and (max-width: 1449px){
+    .social-icons {
+        margin-left: 130px;
+    }
+    .social-icon ul {
+        margin-right: 115px;
+    }
+    .service-content h6 {
+        font-size: 14px;
+    }
+    .project-content h6 {
+        font-size: 14px;
+    }
+    .copy p{
+        font-size: 12px;
+    }
+
+
+}
+
+
+/* LG device: 992px */
+@media(min-width: 992px) and (max-width: 1199px){
+    .social-icons {
+        margin-left: 53px;
+    }
+    .header-left ul li a{
+        font-size: 11px;
+    }
+    .header-content{
+        margin-top: 155px;
+    }
+    .about-menu ul li a {
+        font-size: 16px;
+    }
+    .service-content h6 {
+        font-size: 11px;
+    }
+    .box p{
+        font-size: 14px;
+    }
+    .project-content h6 {
+        font-size: 11px;
+    }
+    .project .btn{
+        margin-left: 39%;
+    }
+    .news-cont h1 {
+        font-size: 19px;
+    }
+    .social-icon ul {
+        margin-right: 48px;
+    }
+    .copy p{
+        font-size: 10px;
+    }
+
+
+}
+
+
+/* MD device: 768px */
+@media(min-width: 768px) and (max-width: 991px){
+    .header-left ul li a{
+        font-size: 11px;
+        padding: 0 7px;
+    }
+    .header-left ul li .color:before {
+        width: 30px;
+    }
+     .header-right .btn-header {
+        margin-right: 10px;
+        width: 150px;
+        
+    }
+     .social-icons{
+        margin-left:390px;
+    
+     }
+   
+    .social-icons ul {
+        margin-top:-35px;
+        margin-left: 60px;
+    }
+    .social-icons ul i{
+        font-size: 10px;
+    }
+    .header-content{
+        margin-top: 115px;
+    }
+    .about-right{
+        margin-top: 0;
+    }
+    .about-content h1 {
+        font-size: 45px;
+    }
+    .about-content p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+    .about-menu ul li a {
+        font-size: 10px;
+    }
+    .service-content h6 {
+        font-size: 8px;
+    }
+    .project-content h6 {
+        font-size: 9px;
+    }
+    .proj-content h1{
+        font-size: 24px;
+    }
+    .proj-content {
+        padding-top: 358px;
+    }
+    .project .btn{
+        margin-left: 36%;
+    }
+    .news-content h6{
+        font-size: 14px;
+    }
+    .news-cont h1 {
+        font-size: 15px;
+    }
+    .social-icon ul{
+        float: left;
+        margin-right: -38px;
+    }
+    .social-icon ul li{
+        height: 35px;
+        width: 35px;
+        padding: 5px 0;
+    }
+    .copy p{
+        font-size: 7px;
+    }
+    .social-icons ul li a{
+        padding: 0 6px;
+
+    }
+    .header-content h1{
+        font-size: 50px;
+    }
+    .about-menu ul li {
+        padding: 17px 5px 17px 17px;
+        
+    }
+    .about-menu ul{
+        margin-left: -40px;
+    }
+    .news-cont{
+        padding-top: 350px;
+    }
+
+
+
+
+}
+
+
+/* extra small device: 767px */
+@media(min-width: 767px){
+
+
+}
+    
+
+
+
+
+/* sm small device: 576px */
+@media (min-width: 576px) and (max-width: 767px){
+    .header-left ul li a{
+        font-size: 8px;
+        padding: 0 6px;
+
+    }
+    .social-icons{
+
+    }
+    .social-icons ul{
+        margin-top: -37px;
+        display: none;
+    }
+    .header-left ul li .color:before{
+        width: 22px;
+    }
+    .header-right .btn-header{
+        margin-right: 10px;
+        width: 120px;
+
+    }
+    .header-content{
+        margin-top: 110px;
+    }
+    .header-content h1{
+        font-size: 50px;
+    }
+    .about-right {
+        margin-top: 0;
+    }
+    .about-content p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .about-menu ul li a {
+        font-size: 9px;
+        
+    }
+    .about-menu ul{
+        margin-left: -40px;
+    }
+    .about-menu ul li{
+        padding: 17px 5px 17px 17px;
+
+    }
+    .service-content h6{
+        font-size: 6px;
+    }
+    .project-content h6{
+        font-size: 6px;
+    }
+    .proj-content h1{
+        font-size: 17px;
+    }
+    .project .btn{
+        margin-left: 34%;
+    }
+    .news-content h6{
+        font-size: 10px;
+    }
+    .news-cont h1 {
+        font-size: 11px;
+    }
+   
+    .social-icon ul li{
+        height: 35px;
+        width: 35px;
+        padding: 4px 0;
+    }
+    .social-icon ul{
+        margin-top: -58px;
+        padding-right:0px;
+    }
+    .copy p {
+        float:right;
+        font-size: 12px;
+        margin-right: 100px;
+        margin-top: -60px;
+
+       
+    }
+
+    
+
+}
